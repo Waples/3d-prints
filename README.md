@@ -1,4 +1,4 @@
-# 3 prints
+# 3d models/prints
 
 A collection of (mostly WIP) 3D models / designs meant for 3D printing.
 
