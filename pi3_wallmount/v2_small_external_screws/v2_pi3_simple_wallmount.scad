@@ -7,32 +7,32 @@
   #!yaml
   mount:
     usage:
-	  grams: 7
-	  time: '35 minutes'
+      grams: 7
+      time: '35 minutes'
     misc:
-	  screws:
-	    size: '2mm x 10mm'
-	    amount: 8
+      screws:
+      size: '2mm x 10mm'
+      amount: 8
     printing:
       settings:
-	    layer height: 0.2
-	    infill: 8
-	    infill pattern: 'zig zag'
-	    speed: '30-60'
-	    adhesion type: 'skirt'
-	  material:
-	    pla_0:
-		  print temp: 205
-		  bed temp: 63
-		  vendor: anycubic
-	    pla_1:
-		  print temp: 205
-		  bed temp: 63
-		  vendor: https://www.123-3d.nl
-	    petg:
-		  print temp: 240
-		  bed temp: 80
-  		  vendor: https://www.123-3d.nl
+        layer height: 0.2
+        infill: 8
+        infill pattern: 'zig zag'
+        speed: '30-60'
+        adhesion type: 'skirt'
+      material:
+        pla_0:
+          print temp: 205
+          bed temp: 63
+          vendor: anycubic
+        pla_1:
+          print temp: 205
+          bed temp: 63
+          vendor: https://www.123-3d.nl
+        petg:
+          print temp: 240
+          bed temp: 80
+          vendor: https://www.123-3d.nl
 */
 
 // Editable variables
